@@ -1,0 +1,15 @@
+{
+  "name": "node-js-boilerplate-express-mysql",
+  "version": "1.0.0",
+  "description": "Node JS basic login boilerplate for future re use",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express, nodejs, mysql, mvc, ejs"
+  ],
+  "author": "Marco A. Sánchez (a.k.a) Raven D. Milosh",
+  "license": "ISC"
+}
